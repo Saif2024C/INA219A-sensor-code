@@ -1,11 +1,4 @@
 # Streaming Serial Data & INA219 Current Sensor Project
-
-## Overview
-This repository contains two programs:
-
-1. **Streaming_Serial_Data**: A Jupyter Notebook to stream serial data.
-2. **currentINA219.ino**: An Arduino sketch that reads current data from the INA219 sensor and sends it via serial communication.
-
 ---
 
 ## Table of Contents
@@ -22,7 +15,11 @@ This repository contains two programs:
 - [Author](#author)
 
 ---
+## Overview
+This repository contains two programs:
 
+1. **Streaming_Serial_Data**: A Jupyter Notebook to stream serial data.
+2. **currentINA219.ino**: An Arduino sketch that reads current data from the INA219 sensor and sends it via serial communication.
 ## Project Features
 - Real-time current measurement using the **INA219 sensor**.
 - Data transmission through serial communication.
