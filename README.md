@@ -31,7 +31,7 @@ This repository contains two programs:
 ---
 
 ## Hardware Requirements
-- **Arduino** (e.g., Arduino Nano, Uno, ESP32, etc.)
+- **Arduino** (e.g., Arduino Nano, Uno etc.)
 - **INA219 Current Sensor Module**
 - Breadboard and Jumper Wires
 - Power Source
